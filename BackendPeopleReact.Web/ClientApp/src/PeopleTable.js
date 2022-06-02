@@ -123,6 +123,7 @@ class PeopleTable extends React.Component {
                     person={this.state.person}
                 />
 
+
                 <table className='table table-hover table-striped table-bordered mt-3'>
                     <thead>
                         <tr>
